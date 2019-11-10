@@ -2,6 +2,7 @@
 ALUR ALGORITMA PROGRAM LATIHAN.1
 1. Masukan nilai input, nilai input berfungsi untuk menampilkan banyak data. Anda bisa masukkan bilangan yang anda inginkan.
 2. Dengan menggunakan fungsi random.uniform(00.0,0.5), fungsi ini yang akan menampilkan angka dibawah 0.5 secara acak. Contohnya sebagai berikut : 
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/56987138/68543624-2a982280-03ec-11ea-8b4e-a67711a2ea7b.png)
 
 3. Ketika anda sudah memasukkan nilai input, maka akan langsung muncul data nilai random.
