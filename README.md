@@ -9,6 +9,9 @@ ALUR ALGORITMA PROGRAM LATIHAN.1
 Contoh hasil nilai random yang kurang dari 0,5:
 ![Screenshot (8)](https://user-images.githubusercontent.com/56987138/68543570-4b13ad00-03eb-11ea-87e0-bda88202d5df.png)
 
+Berikut contoh flowchartnya :
+![Screenshot (17)](https://user-images.githubusercontent.com/56987138/68555782-e9daf080-0461-11ea-86d7-02b7cc3ba9bc.png)
+
 ALUR ALGORITMA PROGAM LATIHAN.2
 1. Masukkan bilangan
 2. Program akan terus mengulang untuk meminta anda memasukkan bilangan selama bilangan yang anda masukkan tersebut tidak sesuai syarat berhenti.
@@ -16,6 +19,10 @@ ALUR ALGORITMA PROGAM LATIHAN.2
 4. Selanjutnya akan menampilkan bilangan terbesar dari semua bilangan yang di input. Untuk mencari bilangan terbesar gunakan fungsi max().
 Contoh hasil programnya sebagai berikut :
 ![Screenshot (11)](https://user-images.githubusercontent.com/56987138/68543572-4b13ad00-03eb-11ea-857f-1cfc53f4291d.png)
+
+Berikut contoh flowchartnya :
+![Screenshot (18)](https://user-images.githubusercontent.com/56987138/68555783-ea738700-0461-11ea-90a7-8ebad8bd8b2d.png)
+
 
 ALUR ALGORITMA PROGRAM.1
 1. Modal awal pengusaha sebesar 100000000
